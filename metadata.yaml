@@ -1,0 +1,26 @@
+_repo: The-Jesus-Problem-A-Restatement-of-the-Myth-Theory_53616
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Robertson, J. M. (John Mackinnon)
+    alias: Robertson, John Mackinnon
+    birthdate: 1856
+    deathdate: 1933
+    gutenberg_agent_id: '31403'
+    url: http://www.gutenberg.org/2009/agents/31403
+    wikipedia: http://en.wikipedia.org/wiki/John_M._Robertson
+description: ''
+gutenberg_issued: '2016-11-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53616'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BT'
+- !lcsh 'Jesus Christ'
+- GITenberg
+title: 'The Jesus Problem: A Restatement of the Myth Theory'
+url: http://www.gutenberg.org/ebooks/53616
